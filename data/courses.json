@@ -1,6 +1,113 @@
 [
-   {
-     "id": "01",
-     "name": "Course one"
-   }
- ]
+  {
+    "id": "01",
+    "name": "HTML",
+    "rating": {
+      "number": 5.0,
+      "badge": "Excellent"
+    },
+    "title": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/html.png",
+    "details": "HTML or HyperText Markup Language is the foundation of web development that every developer needs to be familiar with. A popular skill for web developers, it is the 2nd most commonly used language in 2020, according to a survey by Stack Overflow. Although it is not a full-fledged programming language, it is the standard language used to create web pages.",
+    "features": ["HTML provides the structure for the web pages and is responsible for the proper formatting of text and images.", "It allows the use of templates so designing a webpage can be done easily.", "It is lightweight and fast."]
+  },
+  {
+    "id": "02",
+    "name": "CSS",
+    "rating": {
+      "number": 5.0,
+      "badge": "Excellent"
+    },
+    "title": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/css.png",
+    "details": ""
+  },
+  {
+    "id": "03",
+    "name": "JavaScript",
+    "rating": {
+      "number": 5.0,
+      "badge": "Excellent"
+    },
+    "title": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/js.png",
+    "details": ""
+  },
+  {
+    "id": "04",
+    "name": "Python",
+    "rating": {
+      "number": 5.0,
+      "badge": "Excellent"
+    },
+    "title": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/python.png",
+    "details": ""
+  },
+  {
+    "id": "05",
+    "name": "PHP",
+    "rating": {
+      "number": 5.0,
+      "badge": "Excellent"
+    },
+    "title": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/php.png",
+    "details": ""
+  },
+  {
+    "id": "06",
+    "name": "TypeScript",
+    "rating": {
+      "number": 5.0,
+      "badge": "Excellent"
+    },
+    "title": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/Ts.png",
+    "details": ""
+  },
+  {
+    "id": "07",
+    "name": "JAVA",
+    "rating": {
+      "number": 5.0,
+      "badge": "Excellent"
+    },
+    "title": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/java.png",
+    "details": ""
+  },
+  {
+    "id": "08",
+    "name": "SQL",
+    "rating": {
+      "number": 5.0,
+      "badge": "Excellent"
+    },
+    "title": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/sql.png",
+    "details": ""
+  },
+  {
+    "id": "09",
+    "name": "Golang",
+    "rating": {
+      "number": 5.0,
+      "badge": "Excellent"
+    },
+    "title": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/go.png",
+    "details": ""
+  },
+  {
+    "id": "10",
+    "name": "",
+    "rating": {
+      "number": 5.0,
+      "badge": "Excellent"
+    },
+    "title": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/rubyRail.png",
+    "details": ""
+  }
+]
