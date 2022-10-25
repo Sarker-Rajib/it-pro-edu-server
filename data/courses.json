@@ -9,7 +9,11 @@
     "title": "",
     "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/html.png",
     "details": "HTML or HyperText Markup Language is the foundation of web development that every developer needs to be familiar with. A popular skill for web developers, it is the 2nd most commonly used language in 2020, according to a survey by Stack Overflow. Although it is not a full-fledged programming language, it is the standard language used to create web pages.",
-    "features": ["HTML provides the structure for the web pages and is responsible for the proper formatting of text and images.", "It allows the use of templates so designing a webpage can be done easily.", "It is lightweight and fast."]
+    "features": [
+      "HTML provides the structure for the web pages and is responsible for the proper formatting of text and images.",
+      "It allows the use of templates so designing a webpage can be done easily.",
+      "It is lightweight and fast."
+    ]
   },
   {
     "id": "02",
@@ -20,7 +24,12 @@
     },
     "title": "",
     "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/css.png",
-    "details": ""
+    "details": "Like HTML, CSS is another basic language that every developer must know. CSS stands for Cascading Style Sheets and is often used with HTML to govern the style of a webpage. The combination of HTML and CSS is called the mother of all programming languages. The size, color, and positions of all elements in a web page are determined by CSS.",
+    "features": [
+      "It has a cascading style, meaning throughout a webpage, an applied style will cascade down from parent to child. ",
+      "It supports responsive web design.",
+      "CSS upholds consistency due to its cascading nature."
+    ]
   },
   {
     "id": "03",
@@ -31,7 +40,12 @@
     },
     "title": "",
     "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/js.png",
-    "details": ""
+    "details": "Stack Overflow’s 2020 Developer Survey records JavaScript as the most commonly used programming language in the world. One of the reasons for its popularity is that it can be used for both frontend and backend web development. It is used to add behavior and interactivity to web pages and also includes several libraries and frameworks. JavaScript is a favorite choice of developers to create dynamic web elements like clickable buttons or animated graphics.",
+    "features": [
+      "It is a lightweight programming language.",
+      "The syntax is simple and easy to learn.",
+      "Besides web development, it can be used for developing mobile apps, games, and web servers."
+    ]
   },
   {
     "id": "04",
@@ -42,7 +56,12 @@
     },
     "title": "",
     "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/python.png",
-    "details": ""
+    "details": "An open-source language that is easy to learn and use, Python is one of the most popular languages used for web development. For beginners as well as experienced programmers, Python is an ideal choice. It is used for backend development, data science, web app development, and automation. It has a huge collection of standard libraries, which makes programming using Python easier for developers.",
+    "features": [
+      "It has dynamic typing capabilities which makes it easy for developers to create complex websites that need constant content changes.",
+      "It is an efficient backend web development language and integrates with other programming languages like C, C#, and Java.",
+      "It can be associated with popular web development frameworks like Django and Flask to create web-based applications."
+    ]
   },
   {
     "id": "05",
@@ -53,7 +72,12 @@
     },
     "title": "",
     "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/php.png",
-    "details": ""
+    "details": "PHP or Hypertext Preprocessor is an open-source scripting language used for backend development. It is mostly used for developing dynamic, data-heavy websites and is an interpreted language. It is one of the most popular web page languages, and frameworks like Drupal and WordPress make use of PHP. ",
+    "features": [
+      "It is supported by many third-party extensions like .NET, MySQL, and Apache.",
+      "It can output images, PDF, text, animations, and HTML.",
+      "It is compatible with cloud services."
+    ]
   },
   {
     "id": "06",
@@ -64,7 +88,12 @@
     },
     "title": "",
     "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/Ts.png",
-    "details": ""
+    "details": "An open-source programming language introduced by Microsoft in 2012, Typescript is one of the most wanted programming languages for web development according to GitHub. It is similar to JavaScript in syntax and semantics and is often called JavaScript++. Being more powerful than JavaScript, Typescript supports the development of enterprise-level applications with large codebases.",
+    "features": [
+      "Has several inbuilt debugging tools that make development simple",
+      "It is a type-safe language, hence type-related errors are reduced",
+      "Supported by Visual Studio Code, Microsoft’s free code editor. "
+    ]
   },
   {
     "id": "07",
@@ -75,7 +104,12 @@
     },
     "title": "",
     "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/java.png",
-    "details": ""
+    "details": "In 1990, Sun Microsystems developed Java to add features to the C++ language. It was built on the Write Once Run Anywhere principle. Today, it is owned by Oracle and is one of the most widely used backend languages for web development. It follows the OOP concepts, has open-source feature-rich libraries, and is a good language to learn due to its moderate learning curve and high productivity. ",
+    "features": [
+      "Java supports multithreading so multiple threads can be executed concurrently implying maximum CPU utilization.",
+      "It supports vertical and horizontal scaling with only slight code changes.",
+      "It can handle massive amounts of data and is highly secure."
+    ]
   },
   {
     "id": "08",
@@ -86,7 +120,12 @@
     },
     "title": "",
     "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/sql.png",
-    "details": ""
+    "details": "SQL, or Structured Query Language, is a standard database language that is used in combination with another programming language. As a database query language, it is used to manipulate databases. It comes third in the list of most used programming languages by Stack Overflow, with more than 50% of developers using SQL for programming.",
+    "features": [
+      "It is used to create, read, update and delete records in databases.",
+      "It is widely used in business intelligence tools.",
+      "SQL has a simple syntax."
+    ]
   },
   {
     "id": "09",
@@ -97,17 +136,27 @@
     },
     "title": "",
     "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/go.png",
-    "details": ""
+    "details": "Golang or Go is an open-source programming language developed at Google in 2007. It is similar to C in syntax and allows for the development of efficient and secure web applications. Go is ideal for network programming, developing data pipelines, and machine learning packages.",
+    "features": [
+      "It is equipped with inbuilt testing tools",
+      "Supports multithreading and can execute several processes concurrently",
+      "It has excellent memory safety features like garbage collection for automatic memory management"
+    ]
   },
   {
     "id": "10",
-    "name": "",
+    "name": "Ruby Rails",
     "rating": {
       "number": 5.0,
       "badge": "Excellent"
     },
     "title": "",
     "thumbnail_url": "https://raw.githubusercontent.com/Sarker-Rajib/10-image-db/main/rubyRail.png",
-    "details": ""
+    "details": "Ruby is a popular backend web development language that supports procedural, functional, and object-oriented programming. It is one of the most recommended languages for beginners to learn. Combined with the Ruby on Rails framework, the language is used for web development extensively.",
+    "features": [
+      "It supports various Graphical User Interface (GUI) tools",
+      "Favors all major platforms like Windows, Mac, and Linux",
+      "Has prominent features like automatic garbage collection, centralized package management, custom dispatch behavior, etc."
+    ]
   }
 ]
